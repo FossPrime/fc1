@@ -1,0 +1,6 @@
+run = ["bash", "./.config/main.sh"]
+
+entrypoint = "README.md"
+
+[packager]
+ignoredPaths=["/"]
